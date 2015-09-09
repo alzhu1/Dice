@@ -1,4 +1,4 @@
-int clicked = 1;
+int clicked = 0;
 Die marco = new Die(5,0);
 void setup()
 {
