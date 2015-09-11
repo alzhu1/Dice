@@ -34,8 +34,8 @@ void draw()
 }
 void mousePressed()
 {
-	redraw();
 	clicked++;
+	redraw();
 }
 class Die //models one single dice cube
 {
