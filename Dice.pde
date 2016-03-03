@@ -29,7 +29,7 @@ void draw()
 	marco.yPos = 0;
 	fill(0);
 	text("We got us " + sum + " for the total roll", 150,250);
-	text("On average, we got us " + (double)sum/18, 150, 270);
+	text("On average, we got us " + (double)sum/24, 150, 270);
 	text("You have rolled " + clicked + " times", 150,290);
 }
 void mousePressed()
